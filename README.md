@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP/hub/blogrlandingpagemain-SyZNsF4Lq)
+- Live Site URL: [Blogr](https://jazzy-cassata-349b66.netlify.app/)
 
 ## My process
 - It was quite tedious but I'm happy I could finish it,I had some problems with the images but i took a break and did it after my break. 
